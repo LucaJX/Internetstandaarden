@@ -231,7 +231,7 @@ div img.members {
 }
 
 /** Members alleen**/
-#solopage {
+.solopage {
 
     display: flex;
     flex-wrap: nowrap;

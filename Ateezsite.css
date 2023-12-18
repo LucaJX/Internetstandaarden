@@ -178,10 +178,6 @@ div img.members {
     border-radius: 15px;
 }
 
-p.infopage {
-    color: black;
-}
-
 .member {
 
     width: 200px;
@@ -286,4 +282,9 @@ footer {
     width: 100%;
     color: white;
     text-align: center
+}
+
+#contact{
+    padding:20px;
+    border-radius: 50%;
 }
